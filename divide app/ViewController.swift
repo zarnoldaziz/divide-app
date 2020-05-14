@@ -45,3 +45,4 @@ class ViewController: UIViewController, UITextFieldDelegate {
    
 }
 
+var labelName: String = "contoh"
